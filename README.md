@@ -17,7 +17,7 @@
 
 ### 🚀 Senior React Native Developer | Mobile Engineer | Tech Enthusiast  
 
-I’m a **Senior Mobile Developer (React Native)** with **9 years of total experience**, including **7 years** of hands-on expertise in building **scalable, high-performance cross-platform applications**.  
+I’m a **Senior Mobile Developer (React Native)** with **8.5+ years of total experience**, including **6.5+ years** of hands-on expertise in building **scalable, high-performance cross-platform applications**.  
 I specialize in **React Native CLI**, **Expo CLI**, and **modern JavaScript/TypeScript** workflows — from architecture and design to deployment and optimization.
 
 ---
