@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHZOo0XALW6rQ/profile-displaybackgroundimage-shrink_350_1400/B4EZe1hpA3HIAY-/0/1751097186269?e=1765411200&v=beta&t=OSb-Ap8LZa5qR7osAONV2GOIwMmSuOLMeBv2KU6ihao" 
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHZOo0XALW6rQ/profile-displaybackgroundimage-shrink_350_1400/B4EZe1hpA3HIAY-/0/1751097186269?e=1777507200&v=beta&t=HbSrnKKnD2NDq8GzGFkg4vrOhKPUJOmJMJ1KdFfKHVA" 
        alt="Nikhil Menan | Senior React Native Developer" 
        width="100%" />
 </p>
