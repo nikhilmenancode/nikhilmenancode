@@ -17,14 +17,17 @@
 
 ### 🚀 Senior React Native Developer | Mobile Engineer | Tech Enthusiast  
 
-I’m a **Senior Mobile Developer (React Native)** with **8.5+ years of total experience**, including **6.5+ years** of hands-on expertise in building **scalable, high-performance cross-platform applications**.  
-I specialize in **React Native CLI**, **Expo CLI**, and **modern JavaScript/TypeScript** workflows — from architecture and design to deployment and optimization.
+Senior Mobile Lead Developer (React Native) with **9 years of total experience**, including **7 years specializing in building scalable, high-performance mobile applications**. Proven track record of delivering projects on time and within budget through effective leadership, debugging, testing, and performance optimization.
+
+Adept in React Native CLI, Expo CLI, and modern development workflows. Skilled in implementing TypeScript, Redux, Redux Toolkit, and Firebase for robust state management, API handling, and real-time services.
+
+Experienced in designing and maintaining scalable applications using component-based architecture, atomic structure, feature-based architecture, and clean architecture. Known for being detail-oriented, solution-driven, and highly adaptable in dynamic environments. A strong communicator with a collaborative mindset, capable of mentoring junior developers. Equally comfortable leading teams or working independently. Possess basic knowledge of Kotlin and Flutter, with a strong drive to take on new and challenging React Native projects.
 
 ---
 
 ## 🧠 About Me
 
-- 🏢 Senior React Native Developer at **Robosoft Technologies**  
+- 🏢 Senior React Native Developer  
 - 💪 Proven track record in **UI optimization**, **app architecture**, and **performance enhancement**  
 - 🔧 Skilled in **React Native**, **Redux Toolkit**, **TypeScript**, **Firebase**, **WebRTC**, and **CI/CD (CodeMagic)**  
 - 💡 Experienced in **Clean**, **Atomic**, **Feature-based**, and **MVVM architectures**  
@@ -88,6 +91,34 @@ I specialize in **React Native CLI**, **Expo CLI**, and **modern JavaScript/Type
 ---
 
 ## 🏆 Featured Projects
+
+### 🛡️ [Fortified – Central Command (Healthcare Security Platform)](https://apps.apple.com/in/app/fortified-central-command/id1591744800)
+> Enterprise-grade healthcare security platform for monitoring, analytics, and task management.
+
+> 🚀 Built **Workbench Module** with dashboards & task workflows  
+> 📊 Developed **interactive data visualization screens**  
+> 🔄 Migrated **JavaScript → TypeScript** (better scalability)  
+> 📈 Integrated **Amplitude Analytics**  
+> 🧹 Improved **code quality via SonarQube**  
+> ⚡ Optimized performance (render cycles, memoization)  
+> 🧱 Applied **SOLID, DRY, KISS principles**
+
+> **Tech:** React Native CLI • TypeScript • Redux Toolkit • REST APIs • Amplitude • SonarQube  
+
+---
+
+### 🛒 [SACO – eCommerce Mobile Application](https://apps.apple.com/us/app/saco-%D8%B3%D8%A7%D9%83%D9%88/id1532690353)
+> Large-scale retail app for a leading Saudi brand with seamless shopping experience.
+
+> 🛍️ Built **Add to Cart flow with API sync**  
+> 📦 Improved **cart performance & state management**  
+> 📊 Integrated **Adjust MMP analytics**  
+> 🐞 Debugged issues using **Flipper & RN Debugger**  
+> ⚡ Enhanced UI responsiveness & API handling  
+
+> **Tech:** React Native • TypeScript • Redux Toolkit • Axios • Adjust MMP  
+
+---
 
 ### 🎬 [OTT Player Project](#)
 > Developed the initial phase of an OTT player with scalable architecture for future API & video integration.  
